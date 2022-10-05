@@ -1,9 +1,16 @@
 <template>
-  <Tutorial/>
+    <div class="w-screen h-screen bg-green-200">
+
+    </div>
 </template>
 
 <script>
 export default {
-  name: 'IndexPage'
+    name: 'home',
+    methods: {
+        blop() {
+
+        }
+    }
 }
 </script>
